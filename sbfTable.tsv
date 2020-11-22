@@ -1906,3 +1906,109 @@ Toa Payoh	3-room	63	124	1.2	18.0	2.0
 Toa Payoh	4-room	109	512	3.9	20.4	4.7
 Toa Payoh	5-room / 3Gen	13	129	5.3	NA	9.9
 TOTAL	TOTAL	3243	11146	2.4	NA	3.4
+2020/11/22 08:07:01
+Project	No of Units	Number of Applicants	Application Rate^	Application Rate^	Application Rate^	Application Rate^	Application Rate^
+Project	No of Units	Number of Applicants	Elderly	Non-Elderly	Non-Elderly	Non-Elderly	Overall
+Project	No of Units	Number of Applicants	Elderly	First Timers	Second Timers	Singles	Overall
+Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates
+Bukit Batok	38	242	9.3	0.3	11.0	78.0	6.4
+Bukit Panjang	15	77	6.7	0.3	NA	NA	5.1
+Choa Chu Kang	13	91	8.3	0.1	NA	NA	7.0
+Hougang	22	274	13.2	0.2	NA	NA	12.5
+Jurong East / West	53	136	3.1	0.2	5.0	57.0	2.6
+Punggol	309	500	1.3	0.1	2.7	33.0	1.6
+Sembawang	8	210	27.8	2.3	NA	NA	26.3
+Sengkang	89	368	4.3	0.2	5.5	97.5	4.1
+Tengah	692	197	0.3	0.0	0.2	3.6	0.3
+Woodlands	80	295	4.6	0.1	10.5	61.0	3.7
+Yishun	317	341	1.4	0.0	1.9	16.0	1.1
+Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates
+Ang Mo Kio	37	61	3.6	0.0	6.0	NA	1.6
+Bedok	31	148	10.8	0.1	NA	NA	4.8
+Bishan	2	30	15.0	NA	NA	NA	15.0
+Bukit Merah	29	58	4.3	0.2	NA	NA	2.0
+Bukit Timah	1	3	3.0	NA	NA	NA	3.0
+Clementi	5	35	16.0	0.3	NA	NA	7.0
+Geylang	81	85	2.4	0.0	2.0	NA	1.0
+Kallang / Whampoa	38	95	5.8	0.1	0.0	NA	2.5
+Queenstown	32	53	3.9	0.1	NA	NA	1.7
+Serangoon	2	23	11.5	NA	NA	NA	11.5
+Tampines	38	241	14.2	0.1	11.0	NA	6.3
+Toa Payoh	45	78	3.9	0.1	4.0	NA	1.7
+TOTAL	1977	3641	NA	NA	NA	NA	1.8
+Project	Flat Type	No of Units	Number of Applicants	Application Rate Δ	Application Rate Δ	Application Rate Δ
+Project	Flat Type	No of Units	Number of Applicants	Non-Elderly	Non-Elderly	Non-Elderly
+Project	Flat Type	No of Units	Number of Applicants	First Timers	Second Timers	Overall
+Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates
+Bukit Batok	3-room (Income ceiling $7,000)	21	115	3.3	50.0	5.5
+Bukit Batok	4-room	41	287	5.5	35.5	7.0
+Bukit Batok	5-room / 3Gen	31	195	4.8	50.0	6.3
+Bukit Panjang	3-room (Income ceiling $7,000)	6	36	2.2	NA	6.0
+Bukit Panjang	4-room	15	173	8.9	NA	11.5
+Bukit Panjang	5-room / 3Gen	5	62	7.4	NA	12.4
+Choa Chu Kang	3-room (Income ceiling $7,000)	5	28	4.2	NA	5.6
+Choa Chu Kang	4-room	12	159	10.6	NA	13.3
+Choa Chu Kang	5-room / Executive	8	49	4.5	NA	6.1
+Hougang	3-room (Income ceiling $7,000)	5	41	4.8	NA	8.2
+Hougang	3-room (Income ceiling $14,000)	1	2	1.0	NA	2.0
+Hougang	4-room	29	251	6.5	70.0	8.7
+Hougang	5-room / 3Gen	6	103	12.8	NA	17.2
+Jurong East / West	3-room (Income ceiling $7,000)	32	81	1.4	37.0	2.5
+Jurong East / West	4-room	27	205	6.0	48.0	7.6
+Jurong East / West	5-room / 3Gen / Executive	46	141	1.7	33.0	3.1
+Punggol	3-room (Income ceiling $7,000)	29	93	1.4	53.0	3.2
+Punggol	3-room (Income ceiling $14,000)	18	29	0.6	NA	1.6
+Punggol	4-room	164	509	2.3	19.5	3.1
+Punggol	5-room / 3Gen	85	388	2.1	54.8	4.6
+Sembawang	3-room (Income ceiling $7,000)	15	120	4.4	NA	8.0
+Sembawang	4-room	46	402	6.9	48.5	8.7
+Sembawang	5-room	38	308	6.2	80.0	8.1
+Sengkang	3-room (Income ceiling $7,000)	30	153	2.7	76.0	5.1
+Sengkang	4-room	86	364	3.2	25.3	4.2
+Sengkang	5-room / 3Gen / Executive	79	277	2.3	35.3	3.5
+Tengah	3-room (Income ceiling $7,000)	66	54	0.5	8.3	0.8
+Tengah	4-room	33	133	3.5	21.0	4.0
+Tengah	5-room / 3Gen	47	111	1.8	14.0	2.4
+Woodlands	3-room (Income ceiling $7,000)	26	134	3.0	59.0	5.2
+Woodlands	4-room	57	421	5.7	54.5	7.4
+Woodlands	5-room / 3Gen / Executive	33	294	6.7	81.0	8.9
+Yishun	3-room (Income ceiling $7,000)	102	166	0.8	17.6	1.6
+Yishun	4-room	492	393	0.6	4.7	0.8
+Yishun	5-room / 3Gen	196	206	0.7	8.1	1.1
+Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates
+Ang Mo Kio	3-room	26	34	0.6	18.0	1.3
+Ang Mo Kio	4-room	20	171	5.7	62.0	8.6
+Ang Mo Kio	5-room / 3Gen	7	137	12.4	NA	19.6
+Bedok	3-room	27	68	1.2	37.0	2.5
+Bedok	4-room	36	274	4.9	101.0	7.6
+Bedok	5-room / Executive	8	115	6.8	NA	14.4
+Bishan	4-room	3	7	1.7	NA	2.3
+Bukit Merah	3-room	18	42	1.3	NA	2.3
+Bukit Merah	4-room	21	162	5.1	61.0	7.7
+Bukit Timah	3-room	1	0	0.0	NA	0.0
+Central	3-room	2	8	2.5	NA	4.0
+Central	5-room	1	19	13.0	NA	19.0
+Clementi	3-room	30	59	1.0	31.0	2.0
+Clementi	4-room	30	348	7.9	120.0	11.6
+Clementi	5-room / 3Gen	63	339	2.7	60.0	5.4
+Geylang	3-room	52	88	1.1	17.5	1.7
+Geylang	4-room	220	707	2.8	10.9	3.2
+Geylang	5-room	1	8	4.0	NA	8.0
+Kallang / Whampoa	3-room	38	67	0.9	32.0	1.8
+Kallang / Whampoa	4-room	66	439	5.3	35.3	6.7
+Kallang / Whampoa	5-room	3	102	18.3	NA	34.0
+Marine Parade	3-room	1	8	4.0	NA	8.0
+Pasir Ris	4-room	5	67	10.0	NA	13.4
+Pasir Ris	5-room / Executive	7	76	6.0	NA	10.9
+Queenstown	3-room	39	122	2.0	47.0	3.1
+Queenstown	4-room	22	213	7.3	60.0	9.7
+Queenstown	5-room	6	40	3.7	NA	6.7
+Serangoon	3-room	5	15	1.4	NA	3.0
+Serangoon	Executive	1	9	7.0	NA	9.0
+Tampines	3-room	43	172	1.7	51.0	4.0
+Tampines	4-room	206	832	3.4	17.2	4.0
+Tampines	5-room / 3Gen / Executive	118	413	2.4	29.2	3.5
+Toa Payoh	3-room	63	146	1.4	20.0	2.3
+Toa Payoh	4-room	109	636	5.0	22.4	5.8
+Toa Payoh	5-room / 3Gen	13	152	6.9	NA	11.7
+TOTAL	TOTAL	3243	12578	2.7	NA	3.9
