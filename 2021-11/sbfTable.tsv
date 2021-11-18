@@ -216,3 +216,112 @@ Toa Payoh	4-room	110	10	0.1	0.8	0.1
 Toa Payoh	5-room / 3Gen / Executive	19	5	0.2	NA	0.3
 TOTAL	TOTAL	1245	422	0.3	NA	0.3
 
+2021/11/18 08:05:05
+Project	No of Units	Number of Applicants	Application Rate^	Application Rate^	Application Rate^	Application Rate^	Application Rate^
+Project	No of Units	Number of Applicants	Elderly	Non-Elderly	Non-Elderly	Non-Elderly	Overall
+Project	No of Units	Number of Applicants	Elderly	First Timers	Second Timers	Singles	Overall
+Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates	Non-Mature Towns/Estates
+Bukit Batok	9	39	3.5	0.0	NA	NA	4.3	Bukit Panjang	5	25	4.5	0.0	NA	NA	5.0	Choa Chu Kang	23	39	2.5	0.1	NA	NA	1.7	Hougang	15	104	4.3	0.0	NA	NA	6.9	Jurong East / West	16	39	1.9	0.1	NA	NA	2.4	Punggol	37	178	2.1	0.3	10.0	131.0	4.8	Sembawang	19	37	1.3	0.2	NA	NA	1.9	Sengkang	24	91	2.5	0.1	NA	NA	3.8	Tengah	141	52	0.2	0.0	0.5	6.5	0.4	Woodlands	47	80	1.3	0.0	4.0	52.0	1.7	Yishun	20	81	3.1	0.2	NA	NA	4.1	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Ang Mo Kio	18	10	1.1	0.0	NA	NA	0.6	Bedok	10	26	5.8	0.2	NA	NA	2.6	Bishan	44	5	0.2	0.0	0.5	NA	0.1	Bukit Merah	13	3	0.3	0.0	NA	NA	0.2	Bukit Timah	1	0	0.0	NA	NA	NA	0.0	Clementi	1	1	0.0	NA	NA	NA	1.0	Geylang	13	7	1.0	0.0	NA	NA	0.5	Kallang / Whampoa	11	13	1.2	NA	NA	NA	1.2	Pasir Ris	11	9	1.8	0.0	NA	NA	0.8	Queenstown	24	19	1.8	0.0	NA	NA	0.8	Serangoon	1	7	7.0	NA	NA	NA	7.0	Tampines	14	42	6.5	0.0	NA	NA	3.0	Toa Payoh	36	12	0.7	0.0	0.0	NA	0.3	TOTAL	553	919	NA	NA	NA	NA	1.7
+Bukit Batok	9	39	3.5	0.0	NA	NA	4.3
+Bukit Panjang	5	25	4.5	0.0	NA	NA	5.0
+Choa Chu Kang	23	39	2.5	0.1	NA	NA	1.7
+Hougang	15	104	4.3	0.0	NA	NA	6.9
+Jurong East / West	16	39	1.9	0.1	NA	NA	2.4
+Punggol	37	178	2.1	0.3	10.0	131.0	4.8
+Sembawang	19	37	1.3	0.2	NA	NA	1.9
+Sengkang	24	91	2.5	0.1	NA	NA	3.8
+Tengah	141	52	0.2	0.0	0.5	6.5	0.4
+Woodlands	47	80	1.3	0.0	4.0	52.0	1.7
+Yishun	20	81	3.1	0.2	NA	NA	4.1
+Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates
+Ang Mo Kio	18	10	1.1	0.0	NA	NA	0.6
+Bedok	10	26	5.8	0.2	NA	NA	2.6
+Bishan	44	5	0.2	0.0	0.5	NA	0.1
+Bukit Merah	13	3	0.3	0.0	NA	NA	0.2
+Bukit Timah	1	0	0.0	NA	NA	NA	0.0
+Clementi	1	1	0.0	NA	NA	NA	1.0
+Geylang	13	7	1.0	0.0	NA	NA	0.5
+Kallang / Whampoa	11	13	1.2	NA	NA	NA	1.2
+Pasir Ris	11	9	1.8	0.0	NA	NA	0.8
+Queenstown	24	19	1.8	0.0	NA	NA	0.8
+Serangoon	1	7	7.0	NA	NA	NA	7.0
+Tampines	14	42	6.5	0.0	NA	NA	3.0
+Toa Payoh	36	12	0.7	0.0	0.0	NA	0.3
+TOTAL	553	919	NA	NA	NA	NA	1.7
+Project	Flat Type	No of Units	Number of Applicants	Application Rate Δ	Application Rate Δ	Application Rate Δ
+Project	Flat Type	No of Units	Number of Applicants	Non-Elderly	Non-Elderly	Non-Elderly
+Project	Flat Type	No of Units	Number of Applicants	First Timers	Second Timers	Overall
+Bukit Batok	3-room (Income ceiling $7,000)	9	26	1.8	NA	2.9
+Bukit Batok	4-room	14	96	6.1	NA	6.9
+Bukit Batok	5-room	2	27	10.0	NA	13.5
+Bukit Panjang	3-room (Income ceiling $7,000)	4	15	2.0	NA	3.8
+Bukit Panjang	4-room	9	61	5.3	NA	6.8
+Bukit Panjang	3Gen	1	5	2.0	NA	5.0
+Choa Chu Kang	3-room (Income ceiling $7,000)	5	8	1.0	NA	1.6
+Choa Chu Kang	4-room	8	57	6.0	NA	7.1
+Choa Chu Kang	5-room	2	17	5.0	NA	8.5
+Hougang	3-room (Income ceiling $7,000)	3	29	6.3	NA	9.7
+Hougang	4-room	8	75	6.6	NA	9.4
+Hougang	5-room	2	60	25.5	NA	30.0
+Jurong East / West	3-room (Income ceiling $7,000)	11	19	0.9	NA	1.7
+Jurong East / West	4-room	14	47	2.6	NA	3.4
+Jurong East / West	5-room / 3Gen	6	12	1.2	NA	2.0
+Punggol	3-room (Income ceiling $7,000)	9	35	2.6	NA	3.9
+Punggol	3-room (Income ceiling $14,000)	3	18	3.3	NA	6.0
+Punggol	4-room	57	251	3.5	28.5	4.4
+Punggol	5-room / 3Gen	31	136	2.3	67.0	4.4
+Sembawang	3-room (Income ceiling $7,000)	12	59	2.9	NA	4.9
+Sembawang	4-room	12	118	7.8	NA	9.8
+Sembawang	5-room / 3Gen	7	79	9.0	NA	11.3
+Sengkang	3-room (Income ceiling $7,000)	9	29	2.1	NA	3.2
+Sengkang	4-room	28	103	3.1	19.0	3.7
+Sengkang	5-room / 3Gen	16	60	2.6	NA	3.8
+Tengah	3-room (Income ceiling $7,000)	36	26	0.4	12.0	0.7
+Tengah	4-room	34	97	2.3	22.0	2.9
+Tengah	5-room / 3Gen	38	67	1.3	18.0	1.8
+Woodlands	3-room (Income ceiling $7,000)	9	33	2.2	NA	3.7
+Woodlands	4-room	18	210	9.3	NA	11.7
+Woodlands	5-room / 3Gen	13	131	6.9	NA	10.1
+Yishun	3-room (Income ceiling $7,000)	3	36	5.7	NA	12.0
+Yishun	4-room	8	142	13.5	NA	17.8
+Yishun	5-room / 3Gen	10	66	4.0	NA	6.6
+Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates	Mature Towns/Estates
+Ang Mo Kio	3-room	3	9	2.0	NA	3.0
+Ang Mo Kio	4-room	25	48	1.7	7.0	1.9
+Ang Mo Kio	5-room	15	33	1.3	NA	2.2
+Bedok	3-room	17	20	0.7	NA	1.2
+Bedok	4-room	20	81	2.6	31.0	4.1
+Bedok	5-room	4	25	3.8	NA	6.3
+Bishan	3-room	13	8	0.4	NA	0.6
+Bishan	4-room	87	87	0.8	6.0	1.0
+Bishan	5-room	2	4	1.5	NA	2.0
+Bukit Merah	3-room	6	3	0.3	NA	0.5
+Bukit Merah	4-room	5	27	3.6	NA	5.4
+Bukit Merah	5-room	1	2	1.0	NA	2.0
+Bukit Timah	3-room	1	0	0.0	NA	0.0
+Bukit Timah	4-room	1	5	2.0	NA	5.0
+Central	3-room	3	9	1.7	NA	3.0
+Clementi	3-room	13	2	0.2	NA	0.2
+Clementi	4-room	8	63	5.6	NA	7.9
+Clementi	5-room / 3Gen	12	64	2.9	NA	5.3
+Geylang	3-room	17	11	0.4	NA	0.6
+Geylang	4-room	56	83	1.2	9.0	1.5
+Geylang	5-room	1	2	2.0	NA	2.0
+Kallang / Whampoa	3-room	13	13	0.6	NA	1.0
+Kallang / Whampoa	4-room	19	59	2.5	NA	3.1
+Kallang / Whampoa	5-room	1	3	2.0	NA	3.0
+Pasir Ris	3-room	7	8	0.4	NA	1.1
+Pasir Ris	4-room	15	48	2.1	NA	3.2
+Pasir Ris	5-room / Executive	13	38	0.8	NA	2.9
+Queenstown	3-room	23	27	0.8	10.0	1.2
+Queenstown	4-room	8	62	5.0	NA	7.8
+Queenstown	5-room	2	12	2.5	NA	6.0
+Serangoon	3-room	2	0	0.0	NA	0.0
+Serangoon	5-room	1	1	0.0	NA	1.0
+Tampines	3-room	18	57	2.2	NA	3.2
+Tampines	4-room	103	279	2.3	11.4	2.7
+Tampines	5-room / 3Gen	79	101	0.8	12.3	1.3
+Toa Payoh	3-room	51	15	0.2	3.5	0.3
+Toa Payoh	4-room	110	99	0.7	4.4	0.9
+Toa Payoh	5-room / 3Gen / Executive	19	26	0.8	NA	1.4
+TOTAL	TOTAL	1245	3684	2.2	NA	3.0
